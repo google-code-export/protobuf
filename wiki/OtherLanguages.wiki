@@ -1,0 +1,16 @@
+#summary Links to projects implementing Protocol Buffers in other languages.
+
+= Implementations of Protocol Buffers in other languages =
+
+Several people have started projects to implement Protocol Buffers in other languages.  Here are the ones we know about.
+
+  * Ruby: http://code.google.com/p/protobuf-ruby/
+  * Haskell: http://darcs.haskell.org/packages/protocol-buffers/
+  * Erlang: http://github.com/tim/erlang-protobuf/tree/master
+  * Perl: http://groups.google.com/group/protobuf-perl
+  * C#: http://github.com/jskeet/dotnet-protobufs/tree/master
+  * LISP:  http://code.google.com/p/cl-protobuf/
+
+If you have a project that should be listed here, please send a message to the discussion group:
+
+http://groups.google.com/group/protobuf
