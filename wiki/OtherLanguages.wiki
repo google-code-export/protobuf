@@ -7,7 +7,8 @@ Several people have started projects to implement Protocol Buffers in other lang
   * Erlang: http://github.com/tim/erlang-protobuf/tree/master
   * Perl: http://groups.google.com/group/protobuf-perl
   * C#: http://github.com/jskeet/dotnet-protobufs/tree/master
-  * LISP:  http://code.google.com/p/cl-protobuf/
+  * LISP: http://code.google.com/p/cl-protobuf/
+  * ActionScript: http://code.google.com/p/protobuf-actionscript/
 
 If you have a project that should be listed here, please send a message to the discussion group:
 
