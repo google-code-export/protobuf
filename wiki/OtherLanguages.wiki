@@ -2,14 +2,15 @@
 
 Several people have started projects to implement Protocol Buffers in other languages.  Here are the ones we know about.
 
-  * Ruby: http://code.google.com/p/protobuf-ruby/
-  * Haskell: http://darcs.haskell.org/packages/protocol-buffers/
-  * Erlang: http://github.com/tim/erlang-protobuf/tree/master
-  * Perl: http://groups.google.com/group/protobuf-perl
+  * Action Script: http://code.google.com/p/protobuf-actionscript/
   * C#: http://github.com/jskeet/dotnet-protobufs/tree/master
   * C#/.NET/WCF: http://code.google.com/p/protobuf-net/
+  * Erlang: http://github.com/tim/erlang-protobuf/tree/master
+  * Haskell: http://darcs.haskell.org/packages/protocol-buffers/
   * LISP: http://code.google.com/p/cl-protobuf/
-  * Action Script: http://code.google.com/p/protobuf-actionscript/
+  * Perl: http://groups.google.com/group/protobuf-perl
+  * PHP: http://code.google.com/p/pb4php/
+  * Ruby: http://code.google.com/p/protobuf-ruby/
 
 If you have a project that should be listed here, please send a message to the discussion group:
 
