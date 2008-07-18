@@ -4,6 +4,7 @@ Several people have started projects to implement Protocol Buffers in other lang
 
   * Action Script: http://code.google.com/p/protobuf-actionscript/
   * C#: http://github.com/jskeet/dotnet-protobufs/tree/master
+  * C#: http://code.google.com/p/protosharp/
   * C#/.NET/WCF: http://code.google.com/p/protobuf-net/
   * Erlang: http://github.com/tim/erlang-protobuf/tree/master
   * Haskell: http://darcs.haskell.org/packages/protocol-buffers/
