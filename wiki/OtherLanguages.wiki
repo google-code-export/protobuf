@@ -12,6 +12,10 @@ Several people have started projects to implement Protocol Buffers in other lang
   * PHP: http://code.google.com/p/pb4php/
   * Ruby: http://code.google.com/p/protobuf-ruby/
 
+Additionally, some people are working on RPC systems based on protobuf:
+
+  * http://kdemod.iskrembilen.com/git/gitweb.cgi?p=freqmod/protorpc/.git;a=summary
+
 If you have a project that should be listed here, please send a message to the discussion group:
 
 http://groups.google.com/group/protobuf
