@@ -1,6 +1,6 @@
 #summary Links to projects implementing Protocol Buffers in other languages.
 
-Several people have started projects to implement Protocol Buffers in other languages.  Here are the ones we know about.
+Several people have started projects to implement Protocol Buffers in other languages.  Here are the ones we know about.  As of this writing, all of these projects are in very early stages of development; probably not production-ready.  Also note that none of these projects are officially affiliated with or endorsed by Google; try them at your own risk.
 
   * Action Script: http://code.google.com/p/protobuf-actionscript/
   * C#: http://github.com/jskeet/dotnet-protobufs/tree/master
