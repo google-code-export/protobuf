@@ -13,11 +13,6 @@ Several people have started projects to implement Protocol Buffers in other lang
   * PHP: http://code.google.com/p/pb4php/
   * Ruby: http://code.google.com/p/protobuf-ruby/
 
-Additionally, some people are working on RPC systems based on protobuf.  ZeroC's [http://zeroc.com/ice.html Ice] now supports [http://www.zeroc.com/labs/protobuf/index.html encoding messages using Protocol Buffers], though it requires defining RPC services in a separate file and language, not `.proto`-style RPC definitions.  There are also some experimental implementations of pure-protobuf RPC:
-
-  * http://protorpc.likbilen.com/
-  * https://launchpad.net/txprotobuf/
-
 If you have a project that should be listed here, please send a message to the discussion group:
 
 http://groups.google.com/group/protobuf
