@@ -1,6 +1,6 @@
 #summary Links to Protocol Buffers RPC implementation projects.
 
-A number of people are working on RPC systems based on protobuf.  ZeroC's [http://zeroc.com/ice.html Ice] now supports [http://www.zeroc.com/labs/protobuf/index.html encoding messages using Protocol Buffers], though it requires defining RPC services in a separate file and language, not `.proto`-style RPC definitions.  There are also some experimental implementations of pure-protobuf RPC:
+A number of people are working on RPC systems based on protobuf.  ZeroC's [http://zeroc.com/ice.html Ice] now supports [http://www.zeroc.com/labs/protobuf/index.html encoding messages using Protocol Buffers], though it requires defining RPC services in a separate file and language, not `.proto`-style RPC definitions.  There are also some experimental implementations of pure-protobuf RPC.  Note that none of these projects are officially affiliated with or endorsed by Google; try them at your own risk.
 
   * http://protorpc.likbilen.com/
   * https://launchpad.net/txprotobuf/
