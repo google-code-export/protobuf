@@ -9,6 +9,7 @@ Several people have started projects to implement Protocol Buffers in other lang
   * Erlang: http://github.com/tim/erlang-protobuf/tree/master
   * Haskell: http://darcs.haskell.org/packages/protocol-buffers/
   * LISP: http://code.google.com/p/cl-protobuf/
+  * LISP: http://code.google.com/p/common-lisp-protobuf/
   * Perl: http://groups.google.com/group/protobuf-perl
   * PHP: http://code.google.com/p/pb4php/
   * Ruby: http://code.google.com/p/protobuf-ruby/
