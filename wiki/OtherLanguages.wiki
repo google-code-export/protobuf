@@ -12,6 +12,7 @@ Several people have started projects to implement Protocol Buffers in other lang
   * Perl: http://groups.google.com/group/protobuf-perl
   * PHP: http://code.google.com/p/pb4php/
   * Ruby: http://code.google.com/p/protobuf-ruby/
+  * Ruby: http://code.google.com/p/ruby-protobuf/
 
 If you have a project that should be listed here, please send a message to the discussion group:
 
