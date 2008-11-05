@@ -15,6 +15,7 @@ Several people have started projects to implement Protocol Buffers in other lang
   * Javascript: http://code.google.com/p/protobuf-js/
   * Mercury: http://code.google.com/p/protobuf-mercury/
   * Perl: http://groups.google.com/group/protobuf-perl
+  * Perl: http://search.cpan.org/perldoc?Google::ProtocolBuffers
   * Perl/XS: http://code.google.com/p/protobuf-perlxs/
   * PHP: http://code.google.com/p/pb4php/
   * Ruby: http://code.google.com/p/protobuf-ruby/
