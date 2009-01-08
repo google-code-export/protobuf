@@ -10,7 +10,7 @@ Several people have started projects to implement Protocol Buffers in other lang
   * C#/.NET/WCF: http://code.google.com/p/protobuf-net/
   * Common Lisp: http://code.google.com/p/cl-protobuf/
   * Common Lisp: http://code.google.com/p/common-lisp-protobuf/
-  * Erlang: http://github.com/tim/erlang-protobuf/tree/master
+  * Erlang: http://github.com/ngerakines/erlang_protobuffs/tree/master
   * Haskell: http://darcs.haskell.org/packages/protocol-buffers/
   * Javascript: http://code.google.com/p/protobuf-js/
   * Mercury: http://code.google.com/p/protobuf-mercury/
