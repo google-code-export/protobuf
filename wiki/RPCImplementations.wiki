@@ -5,6 +5,7 @@ A number of people are working on RPC systems based on protobuf.  ZeroC's [http:
   * http://protorpc.likbilen.com/
   * https://launchpad.net/txprotobuf/
   * http://code.google.com/p/protobuf-rpc/
+  * http://code.google.com/p/protobuf-socket-rpc/
 
 If you have a project that should be listed here, please send a message to the discussion group:
 
