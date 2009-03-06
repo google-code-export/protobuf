@@ -2,7 +2,7 @@
 
 A number of people are working on RPC systems based on protobuf.  ZeroC's [http://zeroc.com/ice.html Ice] now supports [http://www.zeroc.com/labs/protobuf/index.html encoding messages using Protocol Buffers], though it requires defining RPC services in a separate file and language, not `.proto`-style RPC definitions.  There are also some experimental implementations of pure-protobuf RPC.  Note that none of these projects are officially affiliated with or endorsed by Google; try them at your own risk.
 
-  * http://protorpc.likbilen.com/
+  * http://protorpc.likbilen.com/ (Qt/C++, Java, Python)
   * https://launchpad.net/txprotobuf/ (Python)
   * http://code.google.com/p/protobuf-rpc/ (Python)
   * http://code.google.com/p/protobuf-socket-rpc/ (Java)
