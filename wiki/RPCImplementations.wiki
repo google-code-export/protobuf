@@ -7,6 +7,7 @@ A number of people are working on RPC systems based on protobuf.  ZeroC's [http:
   * http://code.google.com/p/protobuf-rpc/ (Python)
   * http://code.google.com/p/protobuf-socket-rpc/ (Java)
   * http://github.com/bitiboy/fepss-rpc/tree/master (Java)
+  * http://code.google.com/p/proto-streamer/ (Java)
 
 If you have a project that should be listed here, please send a message to the discussion group:
 
