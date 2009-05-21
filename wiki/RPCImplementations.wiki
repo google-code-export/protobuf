@@ -5,7 +5,7 @@ A number of people are working on RPC systems based on protobuf.  ZeroC's [http:
   * http://protorpc.lekebilen.com/ (Qt/C++, Java, Python)
   * https://launchpad.net/txprotobuf/ (Python)
   * http://code.google.com/p/protobuf-rpc/ (Python)
-  * http://code.google.com/p/protobuf-socket-rpc/ (Java)
+  * http://code.google.com/p/protobuf-socket-rpc/ (Java, Python)
   * http://github.com/bitiboy/fepss-rpc/tree/master (Java)
   * http://code.google.com/p/proto-streamer/ (Java)
   * http://code.google.com/p/server1/ (C++)
