@@ -8,7 +8,7 @@ Several people have started projects to implement Protocol Buffers in other lang
   * C: http://code.google.com/p/protobuf-c/
   * C#: http://github.com/jskeet/dotnet-protobufs/tree/master
   * C#: http://code.google.com/p/protosharp/
-  * C#/.NET/WCF: http://code.google.com/p/protobuf-net/
+  * C#/.NET/WCF/VB: http://code.google.com/p/protobuf-net/
   * Common Lisp: http://code.google.com/p/cl-protobuf/
   * Common Lisp: http://code.google.com/p/common-lisp-protobuf/
   * Erlang: http://github.com/ngerakines/erlang_protobuffs/tree/master
