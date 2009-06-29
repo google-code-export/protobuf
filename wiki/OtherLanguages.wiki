@@ -1,29 +1,3 @@
-#summary Links to projects implementing Protocol Buffers in other languages.
+#summary Deprecated:  Use ThirdPartyAddOns
 
-Several people have started projects to implement Protocol Buffers in other languages.  Here are the ones we know about.  As of this writing, all of these projects are in very early stages of development; probably not production-ready.  Also note that none of these projects are officially affiliated with or endorsed by Google; try them at your own risk.
-
-  * Action Script: http://code.google.com/p/protobuf-actionscript3/
-  * Action Script: http://code.google.com/p/protobuf-actionscript/
-  * Action Script: http://code.google.com/p/protocol-buffers-actionscript/
-  * C: http://code.google.com/p/protobuf-c/
-  * C#: http://github.com/jskeet/dotnet-protobufs/tree/master
-  * C#: http://code.google.com/p/protosharp/
-  * C#/.NET/WCF/VB: http://code.google.com/p/protobuf-net/
-  * Common Lisp: http://code.google.com/p/cl-protobuf/
-  * Common Lisp: http://code.google.com/p/common-lisp-protobuf/
-  * Erlang: http://github.com/ngerakines/erlang_protobuffs/tree/master
-  * Haskell: http://darcs.haskell.org/packages/protocol-buffers/
-  * Java ME: http://code.google.com/p/protobuf-javame/
-  * Javascript: http://code.google.com/p/protobuf-js/
-  * Mercury: http://code.google.com/p/protobuf-mercury/
-  * Perl: http://groups.google.com/group/protobuf-perl
-  * Perl: http://search.cpan.org/perldoc?Google::ProtocolBuffers
-  * Perl/XS: http://code.google.com/p/protobuf-perlxs/
-  * PHP: http://code.google.com/p/pb4php/
-  * Ruby: http://code.google.com/p/protobuf-ruby/
-  * Ruby: http://code.google.com/p/ruby-protobuf/
-  * Visual Basic: http://code.google.com/p/protobuf-net/
-
-If you have a project that should be listed here, please send a message to the discussion group:
-
-http://groups.google.com/group/protobuf
+This page is superseded by ThirdPartyAddOns.
