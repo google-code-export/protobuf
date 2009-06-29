@@ -1,0 +1,58 @@
+#summary Links to third-party add-ons.
+
+=Third-Party Add-ons for Protocol Buffers=
+
+This page lists code related to Protocol Buffers which is developed and maintained by third parties.  You may find this code useful, but note that *none of these projects are affiliated with or endorsed by Google*; try them at your own risk.  Also note that many projects here are in the early stages of development and not production-ready.
+
+If you have a project that should be listed here, please send a message to the discussion group:
+
+http://groups.google.com/group/protobuf
+
+<wiki:toc max_depth="2" />
+
+==Other Languages==
+
+These are projects we know about implementing Protocol Buffers for other programming languages:
+
+  * Action Script: http://code.google.com/p/protobuf-actionscript3/
+  * Action Script: http://code.google.com/p/protobuf-actionscript/
+  * Action Script: http://code.google.com/p/protocol-buffers-actionscript/
+  * C: http://code.google.com/p/protobuf-c/
+  * C#: http://github.com/jskeet/dotnet-protobufs/tree/master
+  * C#: http://code.google.com/p/protosharp/
+  * C#/.NET/WCF/VB: http://code.google.com/p/protobuf-net/
+  * Common Lisp: http://code.google.com/p/cl-protobuf/
+  * Common Lisp: http://code.google.com/p/common-lisp-protobuf/
+  * Erlang: http://github.com/ngerakines/erlang_protobuffs/tree/master
+  * Haskell: http://darcs.haskell.org/packages/protocol-buffers/
+  * Java ME: http://code.google.com/p/protobuf-javame/
+  * Javascript: http://code.google.com/p/protobuf-js/
+  * Mercury: http://code.google.com/p/protobuf-mercury/
+  * Perl: http://groups.google.com/group/protobuf-perl
+  * Perl: http://search.cpan.org/perldoc?Google::ProtocolBuffers
+  * Perl/XS: http://code.google.com/p/protobuf-perlxs/
+  * PHP: http://code.google.com/p/pb4php/
+  * Ruby: http://code.google.com/p/protobuf-ruby/
+  * Ruby: http://code.google.com/p/ruby-protobuf/
+  * Visual Basic: http://code.google.com/p/protobuf-net/
+
+==RPC Implementations==
+
+These are RPC implementations that work with Protocol Buffers.  Some of these actually work with Protocol Buffers service definitions (defined using the `service` keyword in `.proto` files) while others just use Protocol Buffers message objects.
+
+  * http://zeroc.com/ice.html (Multiple languages)
+  * http://protorpc.lekebilen.com/ (Qt/C++, Java, Python)
+  * https://launchpad.net/txprotobuf/ (Python)
+  * http://code.google.com/p/protobuf-rpc/ (Python)
+  * http://code.google.com/p/protobuf-socket-rpc/ (Java, Python)
+  * http://github.com/bitiboy/fepss-rpc/tree/master (Java)
+  * http://code.google.com/p/proto-streamer/ (Java)
+  * http://code.google.com/p/server1/ (C++)
+
+==Other Utilities==
+
+There are miscellaneous other things you may find useful as a Protocol Buffers developer.
+
+  * [http://code.google.com/p/protobuf-netbeans-plugin/ NetBeans IDE plugin]
+  * [http://code.google.com/p/protobuf-wireshark/ Wireshark/Ethereal packet sniffer plugin]
+  * [http://code.google.com/p/protobuf-java-format/ Alternate encodings (JSON, XML, HTML) for Java protobufs]
