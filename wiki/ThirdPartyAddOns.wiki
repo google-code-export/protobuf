@@ -10,7 +10,7 @@ http://groups.google.com/group/protobuf
 
 <wiki:toc max_depth="2" />
 
-==Other Languages==
+==Programming Languages==
 
 These are projects we know about implementing Protocol Buffers for other programming languages:
 
@@ -18,6 +18,7 @@ These are projects we know about implementing Protocol Buffers for other program
   * Action Script: http://code.google.com/p/protobuf-actionscript/
   * Action Script: http://code.google.com/p/protocol-buffers-actionscript/
   * C: http://code.google.com/p/protobuf-c/
+  * C++: http://protobuf.googlecode.com/ (Google-official implementation)
   * C#: http://github.com/jskeet/dotnet-protobufs/tree/master
   * C#: http://code.google.com/p/protosharp/
   * C#/.NET/WCF/VB: http://code.google.com/p/protobuf-net/
@@ -25,6 +26,7 @@ These are projects we know about implementing Protocol Buffers for other program
   * Common Lisp: http://code.google.com/p/common-lisp-protobuf/
   * Erlang: http://github.com/ngerakines/erlang_protobuffs/tree/master
   * Haskell: http://darcs.haskell.org/packages/protocol-buffers/
+  * Java: http://protobuf.googlecode.com/ (Google-official implementation)
   * Java ME: http://code.google.com/p/protobuf-javame/
   * Javascript: http://code.google.com/p/protobuf-js/
   * Mercury: http://code.google.com/p/protobuf-mercury/
@@ -32,6 +34,7 @@ These are projects we know about implementing Protocol Buffers for other program
   * Perl: http://search.cpan.org/perldoc?Google::ProtocolBuffers
   * Perl/XS: http://code.google.com/p/protobuf-perlxs/
   * PHP: http://code.google.com/p/pb4php/
+  * Python: http://protobuf.googlecode.com/ (Google-official implementation)
   * Ruby: http://code.google.com/p/protobuf-ruby/
   * Ruby: http://code.google.com/p/ruby-protobuf/
   * Visual Basic: http://code.google.com/p/protobuf-net/
@@ -41,6 +44,7 @@ These are projects we know about implementing Protocol Buffers for other program
 These are RPC implementations that work with Protocol Buffers.  Some of these actually work with Protocol Buffers service definitions (defined using the `service` keyword in `.proto` files) while others just use Protocol Buffers message objects.
 
   * http://zeroc.com/ice.html (Multiple languages)
+  * http://code.google.com/p/protobuf-net/ (C#/.NET/WCF/VB)
   * http://protorpc.lekebilen.com/ (Qt/C++, Java, Python)
   * https://launchpad.net/txprotobuf/ (Python)
   * http://code.google.com/p/protobuf-rpc/ (Python)
