@@ -35,7 +35,6 @@ These are projects we know about implementing Protocol Buffers for other program
   * Perl/XS: http://code.google.com/p/protobuf-perlxs/
   * PHP: http://code.google.com/p/pb4php/
   * Python: http://protobuf.googlecode.com/ (Google-official implementation)
-  * Ruby: http://code.google.com/p/protobuf-ruby/
   * Ruby: http://code.google.com/p/ruby-protobuf/
   * Visual Basic: http://code.google.com/p/protobuf-net/
 
