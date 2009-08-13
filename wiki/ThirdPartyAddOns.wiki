@@ -15,8 +15,6 @@ http://groups.google.com/group/protobuf
 These are projects we know about implementing Protocol Buffers for other programming languages:
 
   * Action Script: http://code.google.com/p/protobuf-actionscript3/
-  * Action Script: http://code.google.com/p/protobuf-actionscript/
-  * Action Script: http://code.google.com/p/protocol-buffers-actionscript/
   * C: http://code.google.com/p/protobuf-c/
   * C++: http://protobuf.googlecode.com/ (Google-official implementation)
   * C#: http://github.com/jskeet/dotnet-protobufs/tree/master
