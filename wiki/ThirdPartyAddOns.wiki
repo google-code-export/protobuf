@@ -2,7 +2,7 @@
 
 =Third-Party Add-ons for Protocol Buffers=
 
-This page lists code related to Protocol Buffers which is developed and maintained by third parties.  You may find this code useful, but note that *none of these projects are affiliated with or endorsed by Google*; try them at your own risk.  Also note that many projects here are in the early stages of development and not production-ready.
+This page lists code related to Protocol Buffers which is developed and maintained by third parties.  You may find this code useful, but note that <font color=red>*none of these projects are affiliated with or endorsed by Google*</font>; try them at your own risk.  Also note that many projects here are in the early stages of development and not production-ready.
 
 If you have a project that should be listed here, please send a message to the discussion group:
 
