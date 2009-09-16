@@ -29,6 +29,7 @@ These are projects we know about implementing Protocol Buffers for other program
   * Java ME: http://code.google.com/p/protobuf-javame/
   * Javascript: http://code.google.com/p/protobuf-js/
   * Mercury: http://code.google.com/p/protobuf-mercury/
+  * Objective C: http://code.google.com/p/protobuf-objc/
   * Perl: http://groups.google.com/group/protobuf-perl
   * Perl: http://search.cpan.org/perldoc?Google::ProtocolBuffers
   * Perl/XS: http://code.google.com/p/protobuf-perlxs/
