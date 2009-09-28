@@ -22,6 +22,7 @@ These are projects we know about implementing Protocol Buffers for other program
   * C#/.NET/WCF/VB: http://code.google.com/p/protobuf-net/
   * Common Lisp: http://code.google.com/p/cl-protobuf/
   * Common Lisp: http://code.google.com/p/common-lisp-protobuf/
+  * Common Lisp: http://www.prism.gatech.edu/~ndantam3/docs/s-protobuf/
   * D: http://256.makerslocal.org/wiki/index.php/ProtocolBuffer
   * Erlang: http://github.com/ngerakines/erlang_protobuffs/tree/master
   * Haskell: http://hackage.haskell.org/package/hprotoc
