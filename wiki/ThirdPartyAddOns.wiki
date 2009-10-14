@@ -26,6 +26,7 @@ These are projects we know about implementing Protocol Buffers for other program
   * Haskell: http://hackage.haskell.org/package/hprotoc
   * Java: http://protobuf.googlecode.com/ (Google-official implementation)
   * Java ME: http://code.google.com/p/protobuf-javame/
+  * Java ME: http://swingme.sourceforge.net/encode.shtml
   * Javascript: http://code.google.com/p/protobuf-js/
   * Mercury: http://code.google.com/p/protobuf-mercury/
   * Objective C: http://code.google.com/p/protobuf-objc/
