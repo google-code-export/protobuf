@@ -18,7 +18,7 @@ These are projects we know about implementing Protocol Buffers for other program
   * C: http://code.google.com/p/protobuf-c/
   * C++: http://protobuf.googlecode.com/ (Google-official implementation)
   * C/C++: http://spbc.sf.net/
-  * C#: http://github.com/jskeet/dotnet-protobufs/tree/master
+  * C#: http://code.google.com/p/protobuf-csharp-port (also mirrored at http://github.com/jskeet/dotnet-protobufs/tree/master)
   * C#: http://code.google.com/p/protosharp/
   * C#/.NET/WCF/VB: http://code.google.com/p/protobuf-net/
   * Common Lisp: http://www.prism.gatech.edu/~ndantam3/docs/s-protobuf/
