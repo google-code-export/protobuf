@@ -833,17 +833,12 @@ GenerateSharedDestructorCode(io::Printer* printer) {
 
 void MessageGenerator::
 GenerateStructors(io::Printer* printer) {
-  string superclass = HasDescriptorMethods(descriptor_->file()) ?
-      "Message" : "MessageLite";
-  
   // Generate the default constructor.
   printer->Print(
-    "$classname$::$classname$()\n"
-    "  : $superclass$() {\n"
+    "$classname$::$classname$() {\n"
     "  SharedCtor();\n"
     "}\n",
-    "classname", classname_,
-    "superclass", superclass);
+    "classname", classname_);
 
   printer->Print(
     "\n"
@@ -873,14 +868,12 @@ GenerateStructors(io::Printer* printer) {
 
   // Generate the copy constructor.
   printer->Print(
-    "$classname$::$classname$(const $classname$& from)\n"
-    "  : $superclass$() {\n"
+    "$classname$::$classname$(const $classname$& from) {\n"
     "  SharedCtor();\n"
     "  MergeFrom(from);\n"
     "}\n"
     "\n",
-    "classname", classname_,
-    "superclass", superclass);
+    "classname", classname_);
 
   // Generate the shared constructor code.
   GenerateSharedConstructorCode(printer);

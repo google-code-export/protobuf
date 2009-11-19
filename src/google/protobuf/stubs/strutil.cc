@@ -36,7 +36,6 @@
 #include <limits>
 #include <limits.h>
 #include <stdio.h>
-#include <iterator>
 
 #ifdef _WIN32
 // MSVC has only _snprintf, not snprintf.
@@ -1028,7 +1027,7 @@ char* DoubleToBuffer(double value, char* buffer) {
 bool safe_strtof(const char* str, float* value) {
   char* endptr;
   errno = 0;  // errno only gets set on errors
-#if defined(_WIN32) || defined (__hpux)  // has no strtof()
+#ifdef _WIN32  // has no strtof()
   *value = strtod(str, &endptr);
 #else
   *value = strtof(str, &endptr);

@@ -592,6 +592,7 @@ TEST_F(RepeatedPtrFieldIteratorTest, Comparable) {
 }
 
 // Uninitialized iterator does not point to any of the RepeatedPtrField.
+// Dereferencing an uninitialized iterator crashes the process.
 TEST_F(RepeatedPtrFieldIteratorTest, UninitializedIterator) {
   RepeatedPtrField<string>::iterator iter;
   EXPECT_TRUE(iter != proto_array_.begin());
@@ -599,6 +600,9 @@ TEST_F(RepeatedPtrFieldIteratorTest, UninitializedIterator) {
   EXPECT_TRUE(iter != proto_array_.begin() + 2);
   EXPECT_TRUE(iter != proto_array_.begin() + 3);
   EXPECT_TRUE(iter != proto_array_.end());
+#ifdef GTEST_HAS_DEATH_TEST
+  ASSERT_DEATH(GOOGLE_LOG(INFO) << *iter, "");
+#endif
 }
 
 TEST_F(RepeatedPtrFieldIteratorTest, STLAlgorithms_lower_bound) {

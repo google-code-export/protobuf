@@ -644,16 +644,14 @@ struct StaticDescriptorInitializer_google_2fprotobuf_2fdescriptor_2eproto {
 const int FileDescriptorSet::kFileFieldNumber;
 #endif  // !_MSC_VER
 
-FileDescriptorSet::FileDescriptorSet()
-  : Message() {
+FileDescriptorSet::FileDescriptorSet() {
   SharedCtor();
 }
 
 void FileDescriptorSet::InitAsDefaultInstance() {
 }
 
-FileDescriptorSet::FileDescriptorSet(const FileDescriptorSet& from)
-  : Message() {
+FileDescriptorSet::FileDescriptorSet(const FileDescriptorSet& from) {
   SharedCtor();
   MergeFrom(from);
 }
@@ -856,8 +854,7 @@ const int FileDescriptorProto::kExtensionFieldNumber;
 const int FileDescriptorProto::kOptionsFieldNumber;
 #endif  // !_MSC_VER
 
-FileDescriptorProto::FileDescriptorProto()
-  : Message() {
+FileDescriptorProto::FileDescriptorProto() {
   SharedCtor();
 }
 
@@ -865,8 +862,7 @@ void FileDescriptorProto::InitAsDefaultInstance() {
   options_ = const_cast< ::google::protobuf::FileOptions*>(&::google::protobuf::FileOptions::default_instance());
 }
 
-FileDescriptorProto::FileDescriptorProto(const FileDescriptorProto& from)
-  : Message() {
+FileDescriptorProto::FileDescriptorProto(const FileDescriptorProto& from) {
   SharedCtor();
   MergeFrom(from);
 }
@@ -1389,16 +1385,14 @@ const int DescriptorProto_ExtensionRange::kStartFieldNumber;
 const int DescriptorProto_ExtensionRange::kEndFieldNumber;
 #endif  // !_MSC_VER
 
-DescriptorProto_ExtensionRange::DescriptorProto_ExtensionRange()
-  : Message() {
+DescriptorProto_ExtensionRange::DescriptorProto_ExtensionRange() {
   SharedCtor();
 }
 
 void DescriptorProto_ExtensionRange::InitAsDefaultInstance() {
 }
 
-DescriptorProto_ExtensionRange::DescriptorProto_ExtensionRange(const DescriptorProto_ExtensionRange& from)
-  : Message() {
+DescriptorProto_ExtensionRange::DescriptorProto_ExtensionRange(const DescriptorProto_ExtensionRange& from) {
   SharedCtor();
   MergeFrom(from);
 }
@@ -1637,8 +1631,7 @@ const int DescriptorProto::kExtensionRangeFieldNumber;
 const int DescriptorProto::kOptionsFieldNumber;
 #endif  // !_MSC_VER
 
-DescriptorProto::DescriptorProto()
-  : Message() {
+DescriptorProto::DescriptorProto() {
   SharedCtor();
 }
 
@@ -1646,8 +1639,7 @@ void DescriptorProto::InitAsDefaultInstance() {
   options_ = const_cast< ::google::protobuf::MessageOptions*>(&::google::protobuf::MessageOptions::default_instance());
 }
 
-DescriptorProto::DescriptorProto(const DescriptorProto& from)
-  : Message() {
+DescriptorProto::DescriptorProto(const DescriptorProto& from) {
   SharedCtor();
   MergeFrom(from);
 }
@@ -2192,8 +2184,7 @@ const int FieldDescriptorProto::kDefaultValueFieldNumber;
 const int FieldDescriptorProto::kOptionsFieldNumber;
 #endif  // !_MSC_VER
 
-FieldDescriptorProto::FieldDescriptorProto()
-  : Message() {
+FieldDescriptorProto::FieldDescriptorProto() {
   SharedCtor();
 }
 
@@ -2201,8 +2192,7 @@ void FieldDescriptorProto::InitAsDefaultInstance() {
   options_ = const_cast< ::google::protobuf::FieldOptions*>(&::google::protobuf::FieldOptions::default_instance());
 }
 
-FieldDescriptorProto::FieldDescriptorProto(const FieldDescriptorProto& from)
-  : Message() {
+FieldDescriptorProto::FieldDescriptorProto(const FieldDescriptorProto& from) {
   SharedCtor();
   MergeFrom(from);
 }
@@ -2749,8 +2739,7 @@ const int EnumDescriptorProto::kValueFieldNumber;
 const int EnumDescriptorProto::kOptionsFieldNumber;
 #endif  // !_MSC_VER
 
-EnumDescriptorProto::EnumDescriptorProto()
-  : Message() {
+EnumDescriptorProto::EnumDescriptorProto() {
   SharedCtor();
 }
 
@@ -2758,8 +2747,7 @@ void EnumDescriptorProto::InitAsDefaultInstance() {
   options_ = const_cast< ::google::protobuf::EnumOptions*>(&::google::protobuf::EnumOptions::default_instance());
 }
 
-EnumDescriptorProto::EnumDescriptorProto(const EnumDescriptorProto& from)
-  : Message() {
+EnumDescriptorProto::EnumDescriptorProto(const EnumDescriptorProto& from) {
   SharedCtor();
   MergeFrom(from);
 }
@@ -3061,8 +3049,7 @@ const int EnumValueDescriptorProto::kNumberFieldNumber;
 const int EnumValueDescriptorProto::kOptionsFieldNumber;
 #endif  // !_MSC_VER
 
-EnumValueDescriptorProto::EnumValueDescriptorProto()
-  : Message() {
+EnumValueDescriptorProto::EnumValueDescriptorProto() {
   SharedCtor();
 }
 
@@ -3070,8 +3057,7 @@ void EnumValueDescriptorProto::InitAsDefaultInstance() {
   options_ = const_cast< ::google::protobuf::EnumValueOptions*>(&::google::protobuf::EnumValueOptions::default_instance());
 }
 
-EnumValueDescriptorProto::EnumValueDescriptorProto(const EnumValueDescriptorProto& from)
-  : Message() {
+EnumValueDescriptorProto::EnumValueDescriptorProto(const EnumValueDescriptorProto& from) {
   SharedCtor();
   MergeFrom(from);
 }
@@ -3369,8 +3355,7 @@ const int ServiceDescriptorProto::kMethodFieldNumber;
 const int ServiceDescriptorProto::kOptionsFieldNumber;
 #endif  // !_MSC_VER
 
-ServiceDescriptorProto::ServiceDescriptorProto()
-  : Message() {
+ServiceDescriptorProto::ServiceDescriptorProto() {
   SharedCtor();
 }
 
@@ -3378,8 +3363,7 @@ void ServiceDescriptorProto::InitAsDefaultInstance() {
   options_ = const_cast< ::google::protobuf::ServiceOptions*>(&::google::protobuf::ServiceOptions::default_instance());
 }
 
-ServiceDescriptorProto::ServiceDescriptorProto(const ServiceDescriptorProto& from)
-  : Message() {
+ServiceDescriptorProto::ServiceDescriptorProto(const ServiceDescriptorProto& from) {
   SharedCtor();
   MergeFrom(from);
 }
@@ -3684,8 +3668,7 @@ const int MethodDescriptorProto::kOutputTypeFieldNumber;
 const int MethodDescriptorProto::kOptionsFieldNumber;
 #endif  // !_MSC_VER
 
-MethodDescriptorProto::MethodDescriptorProto()
-  : Message() {
+MethodDescriptorProto::MethodDescriptorProto() {
   SharedCtor();
 }
 
@@ -3693,8 +3676,7 @@ void MethodDescriptorProto::InitAsDefaultInstance() {
   options_ = const_cast< ::google::protobuf::MethodOptions*>(&::google::protobuf::MethodOptions::default_instance());
 }
 
-MethodDescriptorProto::MethodDescriptorProto(const MethodDescriptorProto& from)
-  : Message() {
+MethodDescriptorProto::MethodDescriptorProto(const MethodDescriptorProto& from) {
   SharedCtor();
   MergeFrom(from);
 }
@@ -4090,16 +4072,14 @@ const int FileOptions::kOptimizeForFieldNumber;
 const int FileOptions::kUninterpretedOptionFieldNumber;
 #endif  // !_MSC_VER
 
-FileOptions::FileOptions()
-  : Message() {
+FileOptions::FileOptions() {
   SharedCtor();
 }
 
 void FileOptions::InitAsDefaultInstance() {
 }
 
-FileOptions::FileOptions(const FileOptions& from)
-  : Message() {
+FileOptions::FileOptions(const FileOptions& from) {
   SharedCtor();
   MergeFrom(from);
 }
@@ -4506,16 +4486,14 @@ const int MessageOptions::kNoStandardDescriptorAccessorFieldNumber;
 const int MessageOptions::kUninterpretedOptionFieldNumber;
 #endif  // !_MSC_VER
 
-MessageOptions::MessageOptions()
-  : Message() {
+MessageOptions::MessageOptions() {
   SharedCtor();
 }
 
 void MessageOptions::InitAsDefaultInstance() {
 }
 
-MessageOptions::MessageOptions(const MessageOptions& from)
-  : Message() {
+MessageOptions::MessageOptions(const MessageOptions& from) {
   SharedCtor();
   MergeFrom(from);
 }
@@ -4828,16 +4806,14 @@ const int FieldOptions::kExperimentalMapKeyFieldNumber;
 const int FieldOptions::kUninterpretedOptionFieldNumber;
 #endif  // !_MSC_VER
 
-FieldOptions::FieldOptions()
-  : Message() {
+FieldOptions::FieldOptions() {
   SharedCtor();
 }
 
 void FieldOptions::InitAsDefaultInstance() {
 }
 
-FieldOptions::FieldOptions(const FieldOptions& from)
-  : Message() {
+FieldOptions::FieldOptions(const FieldOptions& from) {
   SharedCtor();
   MergeFrom(from);
 }
@@ -5222,16 +5198,14 @@ void FieldOptions::Swap(FieldOptions* other) {
 const int EnumOptions::kUninterpretedOptionFieldNumber;
 #endif  // !_MSC_VER
 
-EnumOptions::EnumOptions()
-  : Message() {
+EnumOptions::EnumOptions() {
   SharedCtor();
 }
 
 void EnumOptions::InitAsDefaultInstance() {
 }
 
-EnumOptions::EnumOptions(const EnumOptions& from)
-  : Message() {
+EnumOptions::EnumOptions(const EnumOptions& from) {
   SharedCtor();
   MergeFrom(from);
 }
@@ -5444,16 +5418,14 @@ void EnumOptions::Swap(EnumOptions* other) {
 const int EnumValueOptions::kUninterpretedOptionFieldNumber;
 #endif  // !_MSC_VER
 
-EnumValueOptions::EnumValueOptions()
-  : Message() {
+EnumValueOptions::EnumValueOptions() {
   SharedCtor();
 }
 
 void EnumValueOptions::InitAsDefaultInstance() {
 }
 
-EnumValueOptions::EnumValueOptions(const EnumValueOptions& from)
-  : Message() {
+EnumValueOptions::EnumValueOptions(const EnumValueOptions& from) {
   SharedCtor();
   MergeFrom(from);
 }
@@ -5666,16 +5638,14 @@ void EnumValueOptions::Swap(EnumValueOptions* other) {
 const int ServiceOptions::kUninterpretedOptionFieldNumber;
 #endif  // !_MSC_VER
 
-ServiceOptions::ServiceOptions()
-  : Message() {
+ServiceOptions::ServiceOptions() {
   SharedCtor();
 }
 
 void ServiceOptions::InitAsDefaultInstance() {
 }
 
-ServiceOptions::ServiceOptions(const ServiceOptions& from)
-  : Message() {
+ServiceOptions::ServiceOptions(const ServiceOptions& from) {
   SharedCtor();
   MergeFrom(from);
 }
@@ -5888,16 +5858,14 @@ void ServiceOptions::Swap(ServiceOptions* other) {
 const int MethodOptions::kUninterpretedOptionFieldNumber;
 #endif  // !_MSC_VER
 
-MethodOptions::MethodOptions()
-  : Message() {
+MethodOptions::MethodOptions() {
   SharedCtor();
 }
 
 void MethodOptions::InitAsDefaultInstance() {
 }
 
-MethodOptions::MethodOptions(const MethodOptions& from)
-  : Message() {
+MethodOptions::MethodOptions(const MethodOptions& from) {
   SharedCtor();
   MergeFrom(from);
 }
@@ -6112,16 +6080,14 @@ const int UninterpretedOption_NamePart::kNamePartFieldNumber;
 const int UninterpretedOption_NamePart::kIsExtensionFieldNumber;
 #endif  // !_MSC_VER
 
-UninterpretedOption_NamePart::UninterpretedOption_NamePart()
-  : Message() {
+UninterpretedOption_NamePart::UninterpretedOption_NamePart() {
   SharedCtor();
 }
 
 void UninterpretedOption_NamePart::InitAsDefaultInstance() {
 }
 
-UninterpretedOption_NamePart::UninterpretedOption_NamePart(const UninterpretedOption_NamePart& from)
-  : Message() {
+UninterpretedOption_NamePart::UninterpretedOption_NamePart(const UninterpretedOption_NamePart& from) {
   SharedCtor();
   MergeFrom(from);
 }
@@ -6377,16 +6343,14 @@ const int UninterpretedOption::kDoubleValueFieldNumber;
 const int UninterpretedOption::kStringValueFieldNumber;
 #endif  // !_MSC_VER
 
-UninterpretedOption::UninterpretedOption()
-  : Message() {
+UninterpretedOption::UninterpretedOption() {
   SharedCtor();
 }
 
 void UninterpretedOption::InitAsDefaultInstance() {
 }
 
-UninterpretedOption::UninterpretedOption(const UninterpretedOption& from)
-  : Message() {
+UninterpretedOption::UninterpretedOption(const UninterpretedOption& from) {
   SharedCtor();
   MergeFrom(from);
 }

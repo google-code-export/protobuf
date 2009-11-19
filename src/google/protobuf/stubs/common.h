@@ -83,7 +83,7 @@ namespace internal {
 
 // The current version, represented as a single integer to make comparison
 // easier:  major * 10^6 + minor * 10^3 + micro
-#define GOOGLE_PROTOBUF_VERSION 2002001
+#define GOOGLE_PROTOBUF_VERSION 2002000
 
 // The minimum library version which works with the current version of the
 // headers.
@@ -283,9 +283,7 @@ inline To down_cast(From* f) {                   // so we only accept pointers
     implicit_cast<From*, To>(0);
   }
 
-#if !defined(NDEBUG) && !defined(GOOGLE_PROTOBUF_NO_RTTI)
   assert(f == NULL || dynamic_cast<To>(f) != NULL);  // RTTI: debug mode only!
-#endif
   return static_cast<To>(f);
 }
 

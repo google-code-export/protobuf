@@ -439,11 +439,7 @@ bool CommandLineInterface::MakeInputsBeProtoPathRelative(
         } else {
           cerr << input_files_[i] << ": File does not reside within any path "
                   "specified using --proto_path (or -I).  You must specify a "
-                  "--proto_path which encompasses this file.  Note that the "
-                  "proto_path must be an exact prefix of the .proto file "
-                  "names -- protoc is too dumb to figure out when two paths "
-                  "(e.g. absolute and relative) are equivalent (it's harder "
-                  "than you think)." << endl;
+                  "--proto_path which encompasses this file." << endl;
         }
         return false;
     }

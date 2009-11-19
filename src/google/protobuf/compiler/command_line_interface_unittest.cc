@@ -775,8 +775,8 @@ TEST_F(CommandLineInterfaceTest, WriteTransitiveDescriptorSet) {
   if (HasFatalFailure()) return;
   ASSERT_EQ(2, descriptor_set.file_size());
   if (descriptor_set.file(0).name() == "bar.proto") {
-    std::swap(descriptor_set.mutable_file()->mutable_data()[0],
-              descriptor_set.mutable_file()->mutable_data()[1]);
+    swap(descriptor_set.mutable_file()->mutable_data()[0],
+         descriptor_set.mutable_file()->mutable_data()[1]);
   }
   EXPECT_EQ("foo.proto", descriptor_set.file(0).name());
   EXPECT_EQ("bar.proto", descriptor_set.file(1).name());
@@ -882,11 +882,7 @@ TEST_F(CommandLineInterfaceTest, CwdRelativeInputNotMappedError) {
   ExpectErrorText(
     "$tmpdir/foo.proto: File does not reside within any path "
       "specified using --proto_path (or -I).  You must specify a "
-      "--proto_path which encompasses this file.  Note that the "
-      "proto_path must be an exact prefix of the .proto file "
-      "names -- protoc is too dumb to figure out when two paths "
-      "(e.g. absolute and relative) are equivalent (it's harder "
-      "than you think).\n");
+      "--proto_path which encompasses this file.\n");
 }
 
 TEST_F(CommandLineInterfaceTest, CwdRelativeInputNotFoundAndNotMappedError) {

@@ -33,7 +33,6 @@
 #ifndef GOOGLE_PROTOBUF_STUBS_STRUTIL_H__
 #define GOOGLE_PROTOBUF_STUBS_STRUTIL_H__
 
-#include <stdlib.h>
 #include <vector>
 #include <google/protobuf/stubs/common.h>
 
