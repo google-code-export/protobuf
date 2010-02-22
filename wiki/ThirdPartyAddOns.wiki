@@ -32,6 +32,7 @@ These are projects we know about implementing Protocol Buffers for other program
   * Java ME: http://swingme.sourceforge.net/encode.shtml
   * Java ME: http://github.com/ponderingpanda/protobuf-j2me
   * Javascript: http://code.google.com/p/protobuf-js/
+  * Javascript: http://github.com/sirikata/protojs
   * Mercury: http://code.google.com/p/protobuf-mercury/
   * Objective C: http://code.google.com/p/protobuf-objc/
   * Perl: http://groups.google.com/group/protobuf-perl
