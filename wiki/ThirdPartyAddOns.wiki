@@ -59,6 +59,7 @@ These are RPC implementations that work with Protocol Buffers.  Some of these ac
   * http://code.google.com/p/server1/ (C++)
   * http://deltavsoft.com/RcfUserGuide/Protobufs (C++)
   * http://code.google.com/p/protobuf-mina-rpc/ (Python client, Java server)
+  * http://code.google.com/p/casocklib/ (C++)
 
 ==Other Utilities==
 
