@@ -58,6 +58,7 @@ These are RPC implementations that work with Protocol Buffers.  Some of these ac
   * http://code.google.com/p/proto-streamer/ (Java)
   * http://code.google.com/p/server1/ (C++)
   * http://deltavsoft.com/RcfUserGuide/Protobufs (C++)
+  * http://code.google.com/p/protobuf-mina-rpc/ (Java)
 
 ==Other Utilities==
 
