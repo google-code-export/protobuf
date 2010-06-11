@@ -26,6 +26,7 @@ These are projects we know about implementing Protocol Buffers for other program
   * Common Lisp: http://www.prism.gatech.edu/~ndantam3/docs/s-protobuf/
   * D: http://256.makerslocal.org/wiki/index.php/ProtocolBuffer
   * Erlang: http://github.com/ngerakines/erlang_protobuffs/tree/master
+  * Go: http://code.google.com/p/goprotobuf/ (From the Go team, not really third-party)
   * Haskell: http://hackage.haskell.org/package/hprotoc
   * Java: http://protobuf.googlecode.com/ (Google-official implementation)
   * Java ME: http://code.google.com/p/protobuf-javame/
