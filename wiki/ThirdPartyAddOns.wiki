@@ -74,3 +74,4 @@ There are miscellaneous other things you may find useful as a Protocol Buffers d
   * [http://code.google.com/p/protobuf-java-format/ Alternate encodings (JSON, XML, HTML) for Java protobufs]
   * [http://code.google.com/p/protobufeditor/ Editor for serialized protobufs]
   * [http://github.com/nnmatveev/idea-plugin-protobuf Intellij IDEA plugin]
+  * [http://github.com/michaeledgar/protobuf-tmbundle TextMate syntax highlighting]
