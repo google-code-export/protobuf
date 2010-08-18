@@ -66,6 +66,7 @@ These are RPC implementations that work with Protocol Buffers.  Some of these ac
   * http://code.google.com/p/casocklib/ (C++)
   * http://code.google.com/p/cxf-protobuf/ (Java)
   * http://code.google.com/p/protobuf-remote/ (C++/C#)
+  * http://code.google.com/p/protobuf-rpc-pro/ (Java)
 
 ==Other Utilities==
 
