@@ -36,6 +36,8 @@ These are projects we know about implementing Protocol Buffers for other program
   * Java ME: http://code.google.com/p/protobuf-j2me/
   * Javascript: http://code.google.com/p/protobuf-js/
   * Javascript: http://github.com/sirikata/protojs
+  * Lua: http://code.google.com/p/protoc-gen-lua/
+  * Lua: http://github.com/indygreg/lua-protobuf
   * Mercury: http://code.google.com/p/protobuf-mercury/
   * Objective C: http://code.google.com/p/protobuf-objc/
   * Perl: http://groups.google.com/group/protobuf-perl
