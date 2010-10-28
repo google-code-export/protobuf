@@ -47,6 +47,7 @@ These are projects we know about implementing Protocol Buffers for other program
   * Python: http://protobuf.googlecode.com/ (Google-official implementation)
   * R: http://cran.r-project.org/package=RProtoBuf
   * Ruby: http://code.google.com/p/ruby-protobuf/
+  * Ruby: http://github.com/mozy/ruby-protocol-buffers
   * Scala: http://github.com/jeffplaisance/scala-protobuf
   * Scala: http://code.google.com/p/protobuf-scala
   * Visual Basic: http://code.google.com/p/protobuf-net/
