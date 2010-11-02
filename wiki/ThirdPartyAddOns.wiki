@@ -27,6 +27,7 @@ These are projects we know about implementing Protocol Buffers for other program
   * Common Lisp: http://github.com/brown/protobuf
   * D: http://256.makerslocal.org/wiki/index.php/ProtocolBuffer
   * Erlang: http://github.com/ngerakines/erlang_protobuffs/tree/master
+  * Erlang: http://piqi.org/
   * Go: http://code.google.com/p/goprotobuf/
   * Haskell: http://hackage.haskell.org/package/hprotoc
   * Java: http://protobuf.googlecode.com/ (Google-official implementation)
@@ -40,6 +41,7 @@ These are projects we know about implementing Protocol Buffers for other program
   * Lua: http://github.com/indygreg/lua-protobuf
   * Mercury: http://code.google.com/p/protobuf-mercury/
   * Objective C: http://code.google.com/p/protobuf-objc/
+  * OCaml: http://piqi.org/
   * Perl: http://groups.google.com/group/protobuf-perl
   * Perl: http://search.cpan.org/perldoc?Google::ProtocolBuffers
   * Perl/XS: http://code.google.com/p/protobuf-perlxs/
