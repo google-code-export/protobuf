@@ -81,6 +81,7 @@ There are miscellaneous other things you may find useful as a Protocol Buffers d
   * [http://code.google.com/p/protobuf-netbeans-plugin/ NetBeans IDE plugin]
   * [http://code.google.com/p/protobuf-wireshark/ Wireshark/Ethereal packet sniffer plugin]
   * [http://code.google.com/p/protobuf-java-format/ Alternate encodings (JSON, XML, HTML) for Java protobufs]
+  * [https://github.com/sijuv/protobuf-codec Another JSON encoder/decoder for Java]
   * [http://code.google.com/p/protobufeditor/ Editor for serialized protobufs]
   * [http://github.com/nnmatveev/idea-plugin-protobuf Intellij IDEA plugin]
   * [http://github.com/michaeledgar/protobuf-tmbundle TextMate syntax highlighting]
