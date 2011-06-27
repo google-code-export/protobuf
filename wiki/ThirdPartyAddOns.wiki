@@ -88,3 +88,4 @@ There are miscellaneous other things you may find useful as a Protocol Buffers d
   * [http://github.com/nnmatveev/idea-plugin-protobuf Intellij IDEA plugin]
   * [http://github.com/michaeledgar/protobuf-tmbundle TextMate syntax highlighting]
   * [http://code.google.com/p/protocol-buffer-plsql/ Oracle PL SQL plugin]
+  * [http://www.jemos.eu/projects/protomak XSDs to proto files converter]
