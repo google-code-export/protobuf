@@ -89,4 +89,4 @@ There are miscellaneous other things you may find useful as a Protocol Buffers d
   * [http://github.com/michaeledgar/protobuf-tmbundle TextMate syntax highlighting]
   * [http://code.google.com/p/protocol-buffer-plsql/ Oracle PL SQL plugin]
   * [http://www.jemos.eu/projects/protomak XSDs to proto files converter]
-  * [http://code.google.com/p/protobuf-dt/  An Eclipse editor for protobuf]
+  * [http://code.google.com/p/protobuf-dt/  Eclipse editor for protobuf (from Google)]
