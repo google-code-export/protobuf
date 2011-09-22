@@ -17,6 +17,7 @@ These are projects we know about implementing Protocol Buffers for other program
   * Action Script: http://code.google.com/p/protobuf-actionscript3/
   * Action Script: https://code.google.com/p/protoc-gen-as3/
   * C: http://code.google.com/p/protobuf-c/
+  * C: http://koti.kapsi.fi/jpa/nanopb/
   * C++: http://protobuf.googlecode.com/ (Google-official implementation)
   * C/C++: http://spbc.sf.net/
   * C#: http://code.google.com/p/protobuf-csharp-port
