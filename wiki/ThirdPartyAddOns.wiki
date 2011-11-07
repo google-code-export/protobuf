@@ -92,3 +92,4 @@ There are miscellaneous other things you may find useful as a Protocol Buffers d
   * [http://code.google.com/p/protocol-buffer-plsql/ Oracle PL SQL plugin]
   * [http://www.jemos.eu/projects/protomak XSDs to proto files converter]
   * [http://code.google.com/p/protobuf-dt/  Eclipse editor for protobuf]  (from Google)
+  * [https://github.com/saadware/protobuf-cppbuilder C++ Builder compatible protobuf]
