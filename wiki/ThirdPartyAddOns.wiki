@@ -56,6 +56,7 @@ These are projects we know about implementing Protocol Buffers for other program
   * Ruby: https://github.com/bmizerany/beefcake/tree/master/lib/beefcake
   * Scala: http://github.com/jeffplaisance/scala-protobuf
   * Scala: http://code.google.com/p/protobuf-scala
+  * Vala: https://launchpad.net/protobuf-vala
   * Visual Basic: http://code.google.com/p/protobuf-net/
 
 ==RPC Implementations==
