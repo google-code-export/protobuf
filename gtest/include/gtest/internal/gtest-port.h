@@ -476,6 +476,15 @@
     || GTEST_OS_QNX)
 #endif  // GTEST_HAS_PTHREAD
 
+#ifdef GTEST_OS_WINDOWS_MINGW
+// Disable pthread support for MinGW for now. To enable it, we need to:
+// 1) Implement ThreadLocal object under MinGW. The internal pthread calls are
+//    not available on MinGW.
+// 2) Replace the nanosleep() with usleep() for MinGW.
+#undef GTEST_HAS_PTHREAD
+#define GTEST_HAS_PTHREAD 0
+#endif
+
 #if GTEST_HAS_PTHREAD
 // gtest-port.h guarantees to #include <pthread.h> when GTEST_HAS_PTHREAD is
 // true.
