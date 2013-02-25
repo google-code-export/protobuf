@@ -1,4 +1,4 @@
-2012-09-19 version 2.5.0:
+2013-02-25 version 2.5.0rc2:
 
   General
   * New notion "import public" that allows a proto file to forward the content
