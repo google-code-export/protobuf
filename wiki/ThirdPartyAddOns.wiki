@@ -100,3 +100,4 @@ There are miscellaneous other things you may find useful as a Protocol Buffers d
     * http://igor-petruk.github.com/protobuf-maven-plugin/
     * http://code.google.com/p/maven-protoc-plugin/
   * [http://code.google.com/p/protoc-gen-docbook/ DocBook generator for .proto files]
+  * [https://github.com/dbcode/protobuf-nginx/ Protobuf for nginx module]
