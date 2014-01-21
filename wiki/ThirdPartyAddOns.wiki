@@ -112,3 +112,4 @@ There are miscellaneous other things you may find useful as a Protocol Buffers d
   * [http://code.google.com/p/protoc-gen-docbook/ DocBook generator for .proto files]
   * [https://github.com/dbcode/protobuf-nginx/ Protobuf for nginx module]
   * [https://github.com/connamara/protobuf_spec RSpec matchers and Cucumber step defs for testing Protocol Buffers]
+  * [https://github.com/Atry/sbt-cppp Sbt plugin for Protocol Buffers]
