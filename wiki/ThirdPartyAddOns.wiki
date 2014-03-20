@@ -30,6 +30,7 @@ These are projects we know about implementing Protocol Buffers for other program
   * Common Lisp: http://github.com/brown/protobuf
   * D: http://256.makerslocal.org/wiki/index.php/ProtocolBuffer
   * Dart: https://github.com/dart-lang/dart-protobuf (runtime) https://github.com/dart-lang/dart-protoc-plugin (code generator)
+  * Elixir: https://github.com/jeremyong/exprotoc
   * Erlang: http://github.com/ngerakines/erlang_protobuffs/tree/master
   * Erlang: http://piqi.org/
   * Go: http://code.google.com/p/goprotobuf/
