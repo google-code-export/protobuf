@@ -93,6 +93,7 @@ These are RPC implementations that work with Protocol Buffers.  Some of these ac
   * https://code.google.com/p/eneter-protobuf-serializer/ (Java/.NET)
   * http://www.deltavsoft.com/RCFProto.html (C++/Java/Python/C#)
   * https://github.com/robbinfan/claire-protorpc (C++)
+  * https://github.com/BaiduPS/sofa-pbrpc (C++)
 
 ==Other Utilities==
 
