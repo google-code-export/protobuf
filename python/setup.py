@@ -144,7 +144,7 @@ if __name__ == '__main__':
 
 
   setup(name = 'protobuf',
-        version = '2.6-pre',
+        version = '2.6.0rc1',
         packages = [ 'google' ],
         namespace_packages = [ 'google' ],
         google_test_dir = test_dir,
