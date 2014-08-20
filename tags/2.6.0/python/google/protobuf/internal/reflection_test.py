@@ -1565,6 +1565,8 @@ class ReflectionTest(basetest.TestCase):
       # C++ implementation in opensource do not consider the catched
       # exception google.protobuf.message.EncodeError same as
       # message.EncodeError. Add an additional catch to deal with it.
+      # TODO(jieluo): Find out the reason and delete this addtional
+      # catch.
       if api_implementation.Type() == 'python':
         raise self.failureException('message.EncodeError not raised')
       self.assertEqual('<class \'google.protobuf.message.EncodeError\'>',
@@ -2504,6 +2506,8 @@ class SerializationTest(basetest.TestCase):
       # C++ implementation in opensource do not consider the catched
       # exception google.protobuf.message.EncodeError same as
       # message.EncodeError. Add an additional catch to deal with it.
+      # TODO(jieluo): Find out the reason and delete this addtional
+      # catch.
       if api_implementation.Type() == 'python':
         raise self.failureException('%s not raised' % str(exc_class))
       self.assertEqual(exception, str(sys.exc_info()[1]))
