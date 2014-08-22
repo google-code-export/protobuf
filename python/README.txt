@@ -101,8 +101,7 @@ You need to export this variable before running setup.py script to build and
 install the extension.  You must also set the variable at runtime, otherwise
 the pure-Python implementation will be used. In a future release, we will
 change the default so that C++ implementation is used whenever it is available.
-It is strongly recommended to run `python setup.py google_test
---cpp_implementation` after setting the
+It is strongly recommended to run `python setup.py test` after setting the
 variable to "cpp", so the tests will be against C++ implemented Python
 messages.
 
