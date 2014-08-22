@@ -47,9 +47,9 @@ Installation
 
      $ python setup.py build
      $ python setup.py google_test
-     
+
      if you want to test c++ implementation, run:
-     $ python setup.py google_test --cpp_implementation
+     $ python setup.py test
 
    If some tests fail, this library may not work correctly on your
    system.  Continue at your own risk.
@@ -66,7 +66,7 @@ Installation
 
      $ python setup.py install
      or:
-     $ python setup.py install --cpp_implementation
+     $ python setup.py install --nocpp_implementation
 
    This step may require superuser privileges.
    NOTE: To use C++ implementation, you need to install C++ protobuf runtime
