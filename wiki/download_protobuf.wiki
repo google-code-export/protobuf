@@ -1,0 +1,9 @@
+|| *Filename* || *Summary* || *Release Date* || *Size* ||
+|| [https://protobuf.googlecode.com/svn/rc/protoc-2.6.0-win32.zip protoc-2.6.0-win32.zip] || Protocol Buffers 2.6.0 compiler -- Windows binary || Aug 2014 || 1.2MB ||
+|| [https://protobuf.googlecode.com/svn/rc/protobuf-2.6.0.tar.bz2 protobuf-2.6.0.tar.bz2] || Protocol Buffers 2.6.0 full source -- C++, Java, Python || Aug 2014 || 1.9MB ||
+|| [https://protobuf.googlecode.com/svn/rc/protobuf-2.6.0.tar.gz protobuf-2.6.0.tar.gz] || Protocol Buffers 2.6.0 full source -- C++, Java, Python || Aug 2014 || 2.5MB ||
+|| [https://protobuf.googlecode.com/svn/rc/protobuf-2.6.0.zip protobuf-2.6.0.zip] || Protocol Buffers 2.6.0 full source -- C++, Java, Python || Aug 2014 || 3.2MB ||
+|| [https://protobuf.googlecode.com/svn/rc/protoc-2.5.0-win32.zip protoc-2.5.0-win32.zip] || Protocol Buffers 2.5.0 compiler -- Windows binary || Feb 2013 || 637KB ||
+|| [https://protobuf.googlecode.com/svn/rc/protobuf-2.5.0.tar.bz2 protobuf-2.5.0.tar.bz2] || Protocol Buffers 2.5.0 full source -- C++, Java, Python || Feb 2013 || 1.8MB ||
+|| [https://protobuf.googlecode.com/svn/rc/protobuf-2.5.0.tar.gz protobuf-2.5.0.tar.gz] || Protocol Buffers 2.5.0 full source -- C++, Java, Python || Feb 2013 || 2.3MB ||
+|| [https://protobuf.googlecode.com/svn/rc/protobuf-2.5.0.zip protobuf-2.5.0.zip] || Protocol Buffers 2.5.0 full source -- C++, Java, Python || Feb 2013 || 2.9MB ||
