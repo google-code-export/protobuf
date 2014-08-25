@@ -1,1 +1,1 @@
-protobuf-2.5.0.zip [https://protobuf.googlecode.com/svn/rc/protobuf-2.5.0.zip]
+[https://protobuf.googlecode.com/svn/rc/protobuf-2.5.0.zip protobuf-2.5.0.zip]
