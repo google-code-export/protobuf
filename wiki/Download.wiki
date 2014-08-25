@@ -12,4 +12,4 @@ Add your content here.  Format your content with:
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
 
-protobuf-2.5.0.zip[https://protobuf.googlecode.com/svn/rc/protobuf-2.5.0.zip]
+protobuf-2.5.0.zip [https://protobuf.googlecode.com/svn/rc/protobuf-2.5.0.zip]
