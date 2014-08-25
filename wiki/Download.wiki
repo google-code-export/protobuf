@@ -1,3 +1,3 @@
-[https://protobuf.googlecode.com/svn/rc/protoc-2.5.0-win32.zip protoc-2.5.0-win32.zip] Protocol Buffers 2.5.0 compiler -- Windows binary 
+[https://protobuf.googlecode.com/svn/rc/protoc-2.5.0-win32.zip protoc-2.5.0-win32.zip] Protocol Buffers 2.5.0 compiler -- Windows binary (Feb 2013)
 [https://protobuf.googlecode.com/svn/rc/protobuf-2.5.0.tar.bz2 protobuf-2.5.0.tar.bz2]
 [https://protobuf.googlecode.com/svn/rc/protobuf-2.5.0.zip protobuf-2.5.0.zip]
