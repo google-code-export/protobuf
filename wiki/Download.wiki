@@ -1,0 +1,3 @@
+Protobuf is moved to [https://github.com/google/protobuf github].
+  * Get the latest release [https://github.com/google/protobuf/releases  here].
+  * If you are looking for old releases, see [https://code.google.com/p/protobuf/downloads/list here].
